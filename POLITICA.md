@@ -1,47 +1,96 @@
 # Política de Privacidade - Mais Saude
 
-**Última atualização**: 02 de dezembro de 2025
+**Última atualização**: 03 de dezembro de 2025
 
 ## 1. Introdução
 
-O aplicativo Mais Saude (Cartão Mais Saude) ("nós", "nosso" ou "aplicativo") está comprometido com a proteção da sua privacidade. Esta política descreve como coletamos, usamos e protegemos suas informações pessoais em conformidade com a Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018).
+O aplicativo Mais Saude é uma plataforma digital de **cartão de descontos e benefícios** ("nós", "nosso" ou "aplicativo") que está comprometida com a proteção da sua privacidade. Este aplicativo oferece um serviço comercial de intermediação entre usuários e estabelecimentos parceiros (clínicas, academias, farmácias) para acesso a descontos em serviços e produtos, **não prestando serviços de saúde diretamente**.
+
+Esta política descreve como coletamos, usamos e protegemos suas informações pessoais em conformidade com a Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018).
 
 ## 2. Informações que Coletamos
+
+**IMPORTANTE**: Este aplicativo **NÃO coleta, armazena ou processa**:
+- Dados médicos, prontuários ou histórico médico
+- Diagnósticos, exames médicos ou resultados clínicos
+- Informações sobre tratamentos de saúde
+- Prescrições médicas ou receitas
+- Dados de condições de saúde ou doenças
+- Qualquer informação de saúde regulamentada
+
+Os dados coletados são **exclusivamente** para fins de identificação do usuário, autenticação e gestão do plano de descontos comerciais.
 
 ### 2.1 Informações fornecidas por você:
 - Nome completo
 - CPF (para autenticação)
-- Data de nascimento
+- Data de nascimento (para verificação de identidade)
 - Endereço de e-mail
-- Número de matrícula do plano
+- Número de matrícula do plano de descontos
 - Dados de dependentes (quando aplicável): nome e data de nascimento
 
 ### 2.2 Informações coletadas automaticamente:
 - Dados de uso do aplicativo
 - Informações do dispositivo (modelo, sistema operacional, versão do app)
 - Token de notificações push (para envio de avisos e promoções)
-- Histórico de descontos utilizados
+- Histórico de descontos utilizados em estabelecimentos parceiros
 - Dados de sessão e autenticação (tokens de acesso temporários)
+
+### 2.3 Informações que NÃO coletamos:
+- **Dados médicos ou de saúde**: prontuários, diagnósticos, exames médicos, histórico médico, condições de saúde
+- **Dados sensíveis de saúde**: informações sobre tratamentos, medicamentos prescritos, consultas médicas realizadas
+- **Informações biométricas ou genéticas**
+- Dados de localização geográfica
+- Contatos do dispositivo
+- Fotos ou arquivos do dispositivo
+- Histórico de navegação fora do aplicativo
 
 ## 3. Como Usamos suas Informações
 
 Utilizamos suas informações para:
 - Autenticar seu acesso ao aplicativo com CPF e data de nascimento
-- Gerenciar seu cartão digital de saude
-- Exibir informações de parceiros conveniados (clínicas, academias, farmácias)
-- Mostrar histórico de descontos utilizados
-- Gerenciar dependentes do plano
+- Gerenciar seu cartão digital de descontos
+- Exibir informações de parceiros conveniados que oferecem descontos
+- Mostrar histórico de descontos comerciais utilizados
+- Gerenciar dependentes do plano de descontos
 - Enviar notificações push sobre promoções, avisos importantes e atualizações do serviço
-- Fornecer informações sobre seu plano contratado
+- Fornecer informações sobre seu plano de descontos contratado
 - Melhorar a experiência do usuário e funcionalidades do aplicativo
+
+## 3.1 Natureza do Serviço
+
+**Este aplicativo é uma plataforma comercial de descontos e benefícios, NÃO um aplicativo de serviços de saúde.**
+
+### O Mais Saude funciona como:
+- **Cartão de identificação digital** para acesso a descontos em estabelecimentos parceiros
+- **Plataforma de benefícios comerciais** que conecta usuários a parceiros comerciais
+- **Sistema de gestão de plano de descontos**, similar a programas de fidelidade e cartões de benefícios
+
+### O aplicativo NÃO:
+- Presta serviços médicos, clínicos ou de saúde
+- Oferece consultas, diagnósticos ou tratamentos médicos
+- Armazena informações médicas, prontuários ou dados clínicos
+- Fornece orientações médicas ou de saúde
+- Substitui ou complementa atendimento médico profissional
+- Monitora condições de saúde ou sinais vitais
+- Requer licença médica ou regulamentação de saúde para operar
+- Processa dados sensíveis de saúde conforme definido em regulamentações específicas
+
+### Relação com estabelecimentos de saúde:
+Os parceiros listados no aplicativo (clínicas, farmácias, academias) são **estabelecimentos comerciais independentes** que oferecem descontos aos portadores do Cartão Mais Saude. O aplicativo:
+- Apenas **facilita o acesso** a descontos oferecidos por estes parceiros
+- **NÃO participa** na prestação de serviços médicos ou de saúde
+- **NÃO tem acesso** a informações sobre serviços de saúde prestados pelos parceiros
+- Funciona como **plataforma de benefícios comerciais**, não plataforma de saúde
 
 ## 4. Compartilhamento de Dados
 
 Suas informações podem ser compartilhadas apenas com:
-- **Prestadores de serviços autorizados**: parceiros conveniados do Cartão Mais Saude (clínicas, academias, farmácias) apenas quando necessário para prestação do serviço
+- **Prestadores de serviços autorizados**: parceiros conveniados do Cartão Mais Saude (clínicas, academias, farmácias) apenas quando necessário para validação do desconto comercial
 - **Provedores de infraestrutura**: servidores e serviços de nuvem que hospedam nossos sistemas
 - **Obrigações legais**: quando exigido por lei, ordem judicial ou autoridades competentes
 - **Com seu consentimento expresso**: em situações específicas que requeiram autorização adicional
+
+**Importante**: O compartilhamento com parceiros é **apenas** para validação de desconto (nome e matrícula), **não incluindo** dados médicos ou de saúde.
 
 **Não vendemos, alugamos ou comercializamos seus dados pessoais a terceiros.**
 
@@ -61,6 +110,15 @@ Nosso aplicativo requer as seguintes permissões do sistema:
 - **Notificações Push** (opcional): para enviar avisos sobre promoções, atualizações e informações importantes
 - **Background Modes - Remote Notifications**: para receber notificações em segundo plano
 
+### 5.3 Permissões que NÃO solicitamos:
+- Câmera
+- Galeria de fotos
+- Localização
+- Contatos
+- Microfone
+- Armazenamento externo
+- Sensores de saúde (HealthKit, Google Fit)
+
 ## 6. Armazenamento de Dados
 
 ### 6.1 Armazenamento local seguro:
@@ -75,6 +133,8 @@ Seus dados completos são armazenados em servidores seguros gerenciados pelo Car
 - Criptografia em repouso
 - Backup regular e seguro
 - Controle de acesso restrito
+
+**Nota**: Armazenamos apenas dados comerciais e contratuais, não dados médicos ou de saúde.
 
 ## 7. Segurança dos Dados
 
@@ -104,10 +164,10 @@ Para exercer esses direitos, entre em contato conosco pelos canais indicados na 
 ## 9. Retenção de Dados
 
 Mantemos seus dados apenas pelo tempo necessário para:
-- **Fornecer nossos serviços** enquanto seu plano estiver ativo
+- **Fornecer nossos serviços** enquanto seu plano de descontos estiver ativo
 - **Cumprir obrigações legais** e regulatórias (mínimo de 5 anos conforme legislação aplicável)
 - **Resolver disputas** e fazer cumprir nossos acordos
-- **Manter histórico** de descontos utilizados durante a vigência do plano
+- **Manter histórico** de descontos comerciais utilizados durante a vigência do plano
 
 Após o cancelamento do plano, seus dados serão:
 1. Mantidos pelo prazo legal exigido (normalmente 5 anos)
@@ -118,7 +178,7 @@ Você pode solicitar a exclusão antecipada de seus dados, sujeito às obrigaç�
 
 ## 10. Menores de Idade
 
-O aplicativo pode processar dados de menores de 18 anos apenas como **dependentes de titulares de plano**, com autorização expressa dos responsáveis legais.
+O aplicativo pode processar dados de menores de 18 anos apenas como **dependentes de titulares de plano de descontos**, com autorização expressa dos responsáveis legais.
 
 - O cadastro de dependentes menores requer consentimento do titular do plano
 - Os responsáveis legais têm direito de acessar, corrigir ou solicitar exclusão dos dados dos menores
@@ -157,9 +217,11 @@ Prazo de resposta: até 15 dias úteis a partir do recebimento da solicitação.
 O tratamento de seus dados pessoais é realizado com base nas seguintes hipóteses legais previstas na LGPD:
 
 - **Execução de contrato** (Art. 7º, V): para fornecer os serviços do Cartão Mais Saude
-- **Cumprimento de obrigação legal** (Art. 7º, II): para atender requisitos fiscais e regulatórios
+- **Cumprimento de obrigação legal** (Art. 7º, II): para atender requisitos fiscais e regulatórios comerciais
 - **Legítimo interesse** (Art. 7º, IX): para melhorar nossos serviços e prevenir fraudes
 - **Consentimento** (Art. 7º, I): quando aplicável, especialmente para notificações push
+
+**Importante**: Este aplicativo opera como plataforma comercial de descontos e benefícios, não estando sujeito à regulamentação específica de serviços de saúde. O aplicativo não presta serviços médicos, não armazena dados de saúde regulamentados e não realiza atividades que requeiram autorização de órgãos reguladores de saúde (ANVISA, CFM, etc.).
 
 ## 14. Transferência Internacional de Dados
 
@@ -206,12 +268,59 @@ Esta política é regida pelas leis brasileiras, em especial:
 
 Foro competente: Comarca de Tramandaí/RS ou do domicílio do usuário, conforme o caso.
 
+## 19. Classificação do Aplicativo e Escopo de Serviço
+
+### 19.1 Classificação:
+- **Categoria**: Utilidades / Finanças
+- **Tipo de serviço**: Plataforma comercial de descontos e benefícios
+- **Natureza dos dados**: Dados comerciais e contratuais (não dados médicos regulamentados)
+- **Modelo de negócio**: Intermediação comercial entre usuários e estabelecimentos parceiros
+
+### 19.2 Escopo do Serviço:
+
+Este aplicativo **NÃO** se enquadra em "highly regulated services" ou "serviços altamente regulamentados de saúde" porque:
+
+1. **Não fornece serviços de saúde**:
+   - Não oferece consultas médicas, diagnósticos ou tratamentos
+   - Não substitui ou complementa serviços médicos profissionais
+   - Não requer profissionais de saúde licenciados para operar
+
+2. **Não coleta dados médicos sensíveis**:
+   - Não armazena prontuários médicos ou histórico clínico
+   - Não processa informações sobre condições de saúde
+   - Não tem acesso a dados de consultas ou tratamentos realizados
+   - Data de nascimento é usada apenas para autenticação, não como dado de saúde
+
+3. **Opera como plataforma comercial**:
+   - Função principal: gestão de cartão de descontos
+   - Similar a programas de fidelidade e cartões de benefícios
+   - Intermediação comercial, não prestação de serviços de saúde
+
+4. **Parceiros são independentes**:
+   - Estabelecimentos parceiros prestam serviços de forma autônoma
+   - Aplicativo não participa na prestação ou gestão de serviços de saúde
+   - Apenas viabiliza acesso a descontos comerciais
+
+### 19.3 Comparação com Apps Similares:
+
+Este aplicativo é funcionalmente equivalente a:
+- Cartões de fidelidade (Starbucks, Magazine Luiza, etc.)
+- Clubes de descontos (Clube Extra, Clube Pão de Açúcar)
+- Cartões de benefícios corporativos
+- Plataformas de cashback e descontos
+
+Não é equivalente a:
+- Apps de telemedicina
+- Apps de monitoramento de saúde
+- Apps de prontuário eletrônico
+- Apps de prescrição médica
+
 ---
 
 **Controlador de Dados**: Jonatan de Almeida Grassi  
 **CPF**: 279.986.660-30  
 **Versão do Aplicativo**: 2.0.0  
-**Data de vigência**: 02 de dezembro de 2025
+**Data de vigência**: 03 de dezembro de 2025
 
 ---
 
