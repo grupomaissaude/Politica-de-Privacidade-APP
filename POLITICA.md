@@ -318,7 +318,7 @@ Não é equivalente a:
 ---
 
 **Controlador de Dados**: Jonatan de Almeida Grassi  
-**CPF**: 279.986.660-30  
+**CPF**: 012.740.480-52
 **Versão do Aplicativo**: 2.0.0  
 **Data de vigência**: 03 de dezembro de 2025
 
